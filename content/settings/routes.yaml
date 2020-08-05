@@ -1,0 +1,25 @@
+routes:
+  /signup/:
+    template: members/signup
+    data: page.signup
+  /signin/:
+    template: members/signin
+    data: page.signin
+  /membership/:
+    template: members/membership
+    data: page.membership
+  /account/:
+    template: members/account
+    data: page.account
+  /:
+    template: index
+
+collections:
+  /blog/:
+    permalink: /blog/{slug}/
+    template: posts
+
+
+taxonomies:
+  tag: /tag/{slug}/
+  author: /author/{slug}/
