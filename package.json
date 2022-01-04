@@ -24,7 +24,7 @@
     "pico": "github:tryghost/pico",
     "lyra": "github:tryghost/lyra",
     "liebling": "github:snathjr/liebling",
-    "platanews": "github:platanus/platanews-ghost-theme#af30149e1772d847a19591d4deaa099e211f7824"
+    "platanews": "github:platanus/platanews-ghost-theme#27968511473fcae738de3610dccc9eb33db2f283"
   },
   "engines": {
     "node": "10.X"
